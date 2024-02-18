@@ -12,7 +12,7 @@ smtp_server = "smtp.gmail.com"
 email_from = "palnidhi.projects@gmail.com"
 email_list = ["nidhipal2121@gmail.com", "palnidhi.projects@gmail.com", "vickyaadhar12345@gmail.com"]
 
-pswd = "kgqsswncpifjvqsk"
+pswd = "***************"
 
 subject = "New Email with attachment!"
 
