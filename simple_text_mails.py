@@ -11,7 +11,7 @@ email_from = "palnidhi.projects@gmail.com"
 email_to = "palnidhi.projects@gmail.com"
 
 
-pswd = "kgqsswncpifjvqsk"
+pswd = "**************"
 
 
 # Content of message
